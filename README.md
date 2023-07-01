@@ -21,14 +21,10 @@ git clone https://github.com/haritiwari4/NorthLadder-Assignmenet
 
 
 Install the dependencies:
-bash
-Copy code
-cd pms
-npm install
+run command: npm install
 Start the server:
-bash
-Copy code
-npm start
+run command: npm start
+
 The server will start running at http://localhost:3000.
 
 API Endpoints
